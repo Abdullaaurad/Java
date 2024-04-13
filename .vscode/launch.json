@@ -1,0 +1,84 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Arguments",
+            "request": "launch",
+            "mainClass": "Arguments",
+            "projectName": "Java_6a66ee4a"
+        },
+        {
+            "type": "java",
+            "name": "GlobalVariable",
+            "request": "launch",
+            "mainClass": "GlobalVariable",
+            "projectName": "Java_6a66ee4a"
+        },
+        {
+            "type": "java",
+            "name": "FinalConst",
+            "request": "launch",
+            "mainClass": "Keywords.FinalConst",
+            "projectName": "Java_6a66ee4a"
+        },
+        {
+            "type": "java",
+            "name": "Operations",
+            "request": "launch",
+            "mainClass": "Numeric.Operations",
+            "projectName": "Java_6a66ee4a"
+        },
+        {
+            "type": "java",
+            "name": "Properties",
+            "request": "launch",
+            "mainClass": "Numeric.Properties",
+            "projectName": "Java_6a66ee4a"
+        },
+        {
+            "type": "java",
+            "name": "datatypes",
+            "request": "launch",
+            "mainClass": "datatypes",
+            "projectName": "Java_6a66ee4a"
+        },
+        {
+            "type": "java",
+            "name": "input",
+            "request": "launch",
+            "mainClass": "input",
+            "projectName": "Java_6a66ee4a"
+        },
+        {
+            "type": "java",
+            "name": "primitive_and_objective",
+            "request": "launch",
+            "mainClass": "primitive_and_objective",
+            "projectName": "Java_6a66ee4a"
+        },
+        {
+            "type": "java",
+            "name": "print",
+            "request": "launch",
+            "mainClass": "print",
+            "projectName": "Java_6a66ee4a"
+        },
+        {
+            "type": "java",
+            "name": "string",
+            "request": "launch",
+            "mainClass": "string",
+            "projectName": "Java_6a66ee4a"
+        }
+    ]
+}

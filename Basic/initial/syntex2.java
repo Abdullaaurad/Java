@@ -4,8 +4,9 @@
     }
     String x= new String();                        //property of class or member variable of a class
     class hi{                                       //example nested class
-
+        
     }                                                        
 }
 
 //indent is not important in like python  
+  
