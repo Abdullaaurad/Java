@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Ternary_Operators",
+            "request": "launch",
+            "mainClass": "Ternary_Operators",
+            "projectName": "Java_6a66ee4a"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"

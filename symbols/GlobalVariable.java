@@ -5,4 +5,3 @@ public class GlobalVariable {
         System.out.println("Initial value of globalVariable: " + globalVariable);
     }
 }
-b  

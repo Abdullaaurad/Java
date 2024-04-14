@@ -20,7 +20,7 @@ public class Properties{
         System.out.println("value of Nan = "+n);
         Double k=Double.POSITIVE_INFINITY;
         System.out.println("Value of positive infinity ="+ k);
-        Double l=Double.NEGATIVE_INFINITY;
+        Double hi=Double.NEGATIVE_INFINITY;
         System.out.println("Value of negative infinity ="+ k);
         System.out.println(Math.sqrt(-1));
         System.out.println(Double.isNaN(Math.sqrt(-1)));
